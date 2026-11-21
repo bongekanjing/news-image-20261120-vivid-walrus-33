@@ -1,4 +1,11 @@
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/bongekanjing/news-image-20261120-vivid-walrus-33/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/bongekanjing/news-image-20261120-vivid-walrus-33/reward.svg)](https://make.fun/bounty/news-image-20261120)
+
 # World news in one image — 20 November 2026
+
+Entry for the [make.fun bounty *Sum up 20 November's world news in one
+image*](https://make.fun/bounty/news-image-20261120).
 
 A front page for Friday 20 November 2026, drawn from scratch by one Python
 program. No network, no randomness, no bundled photograph: every rule, glyph
